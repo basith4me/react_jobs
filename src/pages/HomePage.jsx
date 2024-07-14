@@ -8,7 +8,7 @@ export default function HomePage() {
     <>
       <Hero />
       <HomeCard />
-      <JobListings ishome={true}/>
+      <JobListings ishome={true} />
       <ViewAllJobs />
     </>
   );
