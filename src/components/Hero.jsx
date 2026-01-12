@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Hero({
   title = "Become a React Dev",
-  subtitle = "Find a rect job join with expert team",
+  subtitle = "Find a react job join with expert team",
 }) {
   return (
     <div>
